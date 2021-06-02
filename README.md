@@ -9,4 +9,4 @@ Maker Media GmbH
 # # Elektronik-Special
 Weiteres Material zum Heft
 
-![Picture](https://github.com/MakeMagazinDE/Elektronik-Special/blob/master/master.png)
+![Picture](https://github.com/MakeMagazinDE/Elektronik-Special/blob/main/master.png)
