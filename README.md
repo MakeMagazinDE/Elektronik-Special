@@ -9,4 +9,4 @@ Maker Media GmbH
 # # Elektronik-Special
 Weiteres Material zum Heft
 
-![Picture](https://github.com/MakeMagazinDE/Node-RED-Special/blob/master/node-red-cover.png)
+![Picture](https://github.com/MakeMagazinDE/Elektronik-Special/blob/master/master.png)
